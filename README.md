@@ -6,6 +6,8 @@
 
 </div>
   
+  ![Visitor Count](https://profile-counter.glitch.me/{gerijeb}/count.svg)
+
 <!--
 **gerijeb/gerijeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
