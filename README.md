@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerijeb&label=Profile%20views&color=0e75b6&style=flat" alt="gerijeb" /> </p>
 
 
-- 📫 How to reach me **giovanni.pepi@gmail.com**
+- 📫 How to reach me **gtpepi@hotmail.com**
 
 - 📄 Know about my experiences [https://lnkd.in/deSPmBZ7](https://lnkd.in/deSPmBZ7)
 - I'm currently learning : <br>
