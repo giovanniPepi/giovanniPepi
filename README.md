@@ -2,13 +2,8 @@
 <h3 align="center">I'm currently building my frontend/fullstack developer profile and contributing to the open source project  <img src="https://www.theodinproject.com/assets/icons/odin-icon-b5b31c073f7417a257003166c98cc23743654715305910c068b93a3bf4d3065d.svg" alt="TheOdinProject" width="40" height="40"/> 
 <a href="https://theodinproject.com" target="_blank" rel="noreferrer">The Odin Project</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerijeb&label=Profile%20views&color=0e75b6&style=flat" alt="gerijeb" /> </p>
 
-
-- 📫 How to reach me **gtpepi@hotmail.com**
-
-- 📄 Know about my experiences on my repositories and  [https://lnkd.in/deSPmBZ7](https://lnkd.in/deSPmBZ7)
-
+- 📫 How to reach me **gtpepi@hotmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=giovanniPepi&theme=monokai&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/></p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerijeb&label=Profile%20views&color=0e75b6&style=flat" alt="gerijeb" /> </p>
