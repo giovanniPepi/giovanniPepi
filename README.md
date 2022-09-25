@@ -1,9 +1,6 @@
 <h3 align="center">I'm currently building my fullstack developer profile and contributing to the open source project  <img src="https://www.theodinproject.com/assets/icons/odin-icon-b5b31c073f7417a257003166c98cc23743654715305910c068b93a3bf4d3065d.svg" alt="TheOdinProject" width="40" height="40"/> 
 <a href="https://theodinproject.com" target="_blank" rel="noreferrer">The Odin Project</a></h3>
 
-
-- 📫 How to reach me **gtpepi@hotmail.com** 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giovanni-tieghi-pepi-833775113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovanni-tieghi-pepi-833775113/" height="30" width="40" /></a>
