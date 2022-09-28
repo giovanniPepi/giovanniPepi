@@ -1,4 +1,4 @@
-<h3 align="center">I'm currently building my fullstack developer profile and contributing to the open source project  <img src="https://www.theodinproject.com/assets/icons/odin-icon-b5b31c073f7417a257003166c98cc23743654715305910c068b93a3bf4d3065d.svg" alt="TheOdinProject" width="40" height="40"/> 
+<h3 align="center">Frontend developer studying to be a fullstack through  <img src="https://www.theodinproject.com/assets/icons/odin-icon-b5b31c073f7417a257003166c98cc23743654715305910c068b93a3bf4d3065d.svg" alt="TheOdinProject" width="40" height="40"/> 
 <a href="https://theodinproject.com" target="_blank" rel="noreferrer">The Odin Project</a></h3>
 
 <h3 align="left">Connect with me:</h3>
